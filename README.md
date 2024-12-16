@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abrahamgracco
-- 👀 I’m interested in science computer
+- 👀 I’m interested in quantum computer
 - 🌱 I’m currently learning multiplatafform languages
 - 💞️ I’m looking to collaborate on everyone
 <!---
